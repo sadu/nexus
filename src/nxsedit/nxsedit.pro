@@ -1,4 +1,5 @@
 QT       += core gui
+QT       += opengl
 
 TARGET   = nxsedit
 CONFIG   += console
