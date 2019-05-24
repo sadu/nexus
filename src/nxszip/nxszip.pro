@@ -1,5 +1,6 @@
 CONFIG += qt
 QT -= gui
+QT       += opengl
 
 HEADERS += zpoint.h \
     bytestream.h \
